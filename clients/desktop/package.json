@@ -10,6 +10,6 @@
     "test": "node --test \"src/**/*.test.mjs\""
   },
   "devDependencies": {
-    "electron": "^43.3.0"
+    "electron": "^43.5.0"
   }
 }
